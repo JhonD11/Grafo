@@ -1,6 +1,8 @@
 
 # ** Programa de grafos **
-## El programa esta diseñada para crear un grafo y analizar las rutas mas largas o cortas a un camino.
+
+## El programa esta diseñado para crear un grafo y analizarlos, asi como las rutas mas largas o cortas que este disponibles.
+
 
 ## 1. Identificacion basica
 ### Inicio del programa
